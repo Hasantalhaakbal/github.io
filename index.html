@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruh Hali Uygulaması</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Ruh Hali Uygulaması</h1>
+            <p class="subtitle">Ruh halinize uygun hadis ve atasözleri</p>
+        </header>
+
+        <div class="mood-selector">
+            <h2>Bugün nasıl hissediyorsunuz?</h2>
+            <div class="mood-grid" id="moodGrid">
+                <!-- Ruh halleri JavaScript ile doldurulacak -->
+            </div>
+        </div>
+
+        <div class="result-container" id="resultContainer" style="display: none;">
+            <div class="result-box">
+                <h3>Seçilen Ruh Hali: <span id="selectedMood"></span></h3>
+                <div class="quote-box">
+                    <h4>Hadis-i Şerif</h4>
+                    <p id="hadith"></p>
+                </div>
+                <div class="quote-box">
+                    <h4>Türk Atasözü</h4>
+                    <p id="proverb"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html> 
