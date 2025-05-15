@@ -63,8 +63,8 @@ const moods = [
         ],
         proverbs: [
             "Cimriyi, Malının bir felaket ile yok olabileceğini veya varise kalabileceği ile korkurt (HZ .ALİ)",
-            "Nimetlerin elden kaçmasından korkunuz, mallarınız israf etmeyiniz (HZ .ALİ),
-            "Cömert, Gönlün zenginliğidir. Malın artması, Cömert olur (HZ. ALİ)
+            "Nimetlerin elden kaçmasından korkunuz, mallarınız israf etmeyiniz (HZ .ALİ)",
+            "Cömert, Gönlün zenginliğidir. Malın artması, Cömert olur (HZ. ALİ)"
         ]
     },
     {
