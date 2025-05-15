@@ -4,12 +4,12 @@ const moods = [
         hadiths: [
             "Gerçek zenginlik, mal çokluğu değil; gönül tokluğudur.(Buhârî, Rikak 15; Müslim, Zekât 120) ",
             "Müminin hâli ne hoştur! Çünkü onun her işi hayırdır.Bu durum sadece mümine mahsustur: Başına bir sevinç gelirse şükreder, bu onun için hayır olur.Başına bir sıkıntı gelirse sabreder, bu da onun için hayır olur.( Müslim, Zühd 64)",
-            "Allah bir kula hayır murat ettiğinde, onu dinde anlayışlı kılar.(Buhârî, İlim 10; Müslim, İmân 103) "
+            "ALLAH bir kula hayır murat ettiğinde, onu dinde anlayışlı kılar (Buhari, ilim 10; Müslim, İman 103)"
         ],
         proverbs: [
             "Mutluluk, Allah'ın sana verdiği her şeyin kıymetini bilmektir(İMAMI GAZALİ)",
-            "GERÇEK MUTLULUK DIŞARIDAN DEĞİL, İÇERİDEN GELİR, KALBİN HUZURU, RABBİNE YAKIN OLDUĞUN ZAMAN BAŞLAR(MEVLANA.)",
-            "KUL, ALLAHA OLAN SEVGİSİ VE O NA İTAATİ ÖLÇÜSÜNDE GERÇEK MUTLULUĞU TADAR(İBN RECEB EL - HANBELİ.)"
+            "Gerçek mutluluk dışarıdan değil, içeriden gelir, kalbin huzuru, rabbine yakın olduğu zaman başlar (MEVLANA.)",
+            "Kul, Allaha olan sevgisi ve ona itaati ölçüsünde gerçek mutluluğu tadar (İBN RECEB EL- HANBELİ.)"
         ]
     },
     {
@@ -20,9 +20,9 @@ const moods = [
             "Allah Teâlâ şöyle buyurur: 'Ben, kulumun kulum hakkımdaki zannı üzereyim. O, Beni andığında onunla beraberim.( Buhârî, Tevhîd 15; Müslim, Zikir 2)"
         ],
         proverbs: [
-            "DÜNYANIN KEDERLERİ KALBİNİ SARDIĞINDA, BİLKİ RABBİN SENİ KENDİNE ÇAĞIRMAKTADIR(HASAN-I BASRİ.)",
-            " KALBİN HÜZÜNLÜYSE, BİL Kİ ALLAH ONU HATIRLAMANI İSTEMİŞTİR(İMAMI ŞAFİİ.)",
-            "HÜZÜN GELDİĞİNDE SABRET; ÇÜNKÜ HER HÜZÜN, ALLAHIN RAHMETİNE AÇILAN BİR KAPIDIR(ABDULKADİR GEYLANI HZ.)"
+            "Dünyanın kederleri kalbini sardığında, bilki rabbin seni kendine  çağırmaktadır (Hasan-ı Basri.)",
+            "Kalbin hüzünlüyse, bil ki ALLAH onu hatırlamanı istemiştir (İmamı şafii)",
+            "Hüzün geldiğinde sabret; Çünkü her hüzün, Allahın rahmetine açılan bir kapıdır (Abdulkadir Geylani HZ.)"
         ]
     },
     {
@@ -34,9 +34,9 @@ const moods = [
 
         ],
         proverbs: [
-            "ÖFKE, AKLIN ZİNCİRİDİR.ÖFKELENDİĞİNDE DİLİNİ TUT VE KALBİNİ SOĞUT(HZ. ALİ)",
-            "KİŞİ DİLİNİN ALTINDA GİZLİDİR(HZ. ALİ)",
-            "BİR GÖNÜL YIKMAK, KABEYİ YIKMAKTAN BETERDİR(SÜLEYMAN HİLMİ TUNAHAN.)"
+            "Öfke aklın zinciridir. Öfkelendiğinde dilini tut ve kalbini soğut (HZ:ALİ)",
+            "Kişi dilinin altında gizlidir (HZ: ALİ)",
+            "Bir gönül yıkmak, kabeyi yıkmaktan beterdir (SÜLEYMAN HİLMİ TUNAHAN HZ.)
         
         ]
     },
@@ -48,9 +48,9 @@ const moods = [
             "Allah’tan hakkıyla korkun! Eğer bir dağın tepesinde bile olsanız, Allah rızası için doğruyu söyleyin. (İbn Mâce, Fiten 14)"
         ],
         proverbs: [
-            "BELA VAKTİNDE SIZLANMAK, FERYAD ETMEK, MİHNETİ (SIKINTIYI) ARTTIRIR(HZ. ALİ)",
-            "KORKU, YALNIZCA ALLAHTAN OLMALIDIR; ÇÜNKÜ ALLAHIN İRADESİNE BOYUN EĞMEK, HER TÜRLÜ KORKUYU ORTADAN KALDIRIR(İBN TEYMİYYE)",
-            "ALLAHA OLAN GÜVEN, KALPTEN KORKUYU SİLER. ALLAHA TEVEKKÜL EDEN, HER TÜRLÜ KORKUDAN KURTULUR(İMAM GAZALİ)"
+            "Bela vaktinde sızlanmak, feryad etmek, mihneti (sıkıntıyı) arttırır (HZ ALİ.)",
+            "Korku, yalnızca allahtan olmalıdır; Çünkü Allahın iradesine boyun eğmek, Her türlü korkuyu ortadan kaldırır (İBN TEYMİYYE)",
+            "Allaha olan güven, Kalpten korkuyu siler. Allaha tevekkül eden, her türlü korkudan kurtulur (İmam Gazali)"
         ]
 
     },
@@ -62,9 +62,9 @@ const moods = [
             "Her bir insanın cebinde iki şey vardır: Biri sadakadır, diğeri şükürdür. Allah, sadaka verenin karşılığını kat kat verir.(Tirmizî, Zekât 19)"
         ],
         proverbs: [
-            "CİMRİYİ,MALININ BİR FELAKET İLE YOK OLABİLECEĞİ VEYA VARİSE KALABİLECEĞİ İLE KORKUT(HZ.ALİ)",
-            "NİMETLERİN ELDN KAÇMASINDAN KORKUNUZ, MALLARINIZI İSRAF ETMEYİNİZ(HZ. ALİ)",
-            "CÖMERTLİK, GÖNLÜN ZENGİNLİĞİDİR. MALIN ARTMASI, CÖMERTLİKLE OLUR(HZ. ALİ)"
+            "Cimriyi, Malının bir felaket ile yok olabileceğini veya varise kalabileceği ile korkurt (HZ .ALİ)",
+            "Nimetlerin elden kaçmasından korkunuz, mallarınız israf etmeyiniz (HZ .ALİ),
+            "Cömert, Gönlün zenginliğidir. Malın artması, Cömert olur (HZ. ALİ)
         ]
     },
     {
@@ -76,25 +76,22 @@ const moods = [
 
         ],
         proverbs: [
-            "ADALET,YÖNETİCİNİN SÜSÜ; ZULÜM İSE ÇÖKÜŞÜN BAŞLANGICIDIR. ADALETLE HÜKMEDEN, HALKIN DUASINI ALIR, RABBİN RIZASINI KAZANIR(ÖMER BİN ABDUL AZİZ)",
-            "ADALET, KALBİN TERAZİSİDİR. NEFSİNE KARŞI ADİL OLMAYAN, BAŞKASINA ADALETİ NASIL SAĞLAYABİLİR?(İMAM ŞAFİ)",
-             "ADALET, İNSANLIĞIN DİREĞİDİR. O YIKILIRSA, TOPLUM ÇÖKER; ÇÜNKÜ ADLET OLMADAN DÜZEN, DÜZEN OLMADAN HUZUR OLMAZ.(İBN HAZM),"
-
+            "Adalet, yöneticinin süsü; Zulmün ise çöküşünün başlangıcıdır. Adalete hükeden, halkın duasını alır, Rabbin rızasını kazanır (Ömer Bin Abdul Aziz)",
+            "Adalet, kalbin terazsisidir. Nefsine karşı adil olmayam, başkasına adaleti nasıl sağlayabilir (İmam Şafi)",
+             "Adalet, insanlığın direğidir. O yıkılırsa, toplum çöker; Çünkü adalet olmadan düzen, Düzen olmadan huzur olmaz. (İbn Hazm)"
         ]
     },
     {
         name: "Sabırlı",
         hadiths: [
-            "Sabır, musibetin başına geldiği ilk andadır.(Buhârî, Cenâiz 32; Müslim, Cenâiz 14) ",
-            "Sabır üçtür: Musibet anında sabır, ibadette sabır, günaha karşı sabır.(Beyhakî, Şuabü’l - Îmân, 7 / 125) ",
-            "Hiçbir kula, sabırdan daha hayırlı ve daha geniş kapsamlı bir nimet verilmemiştir.(Buhârî, Merdâ 9; Müslim, Zekât 76)"
-
+            "Sabır, Musibetin başına geldiği ilk andadır. (Buhari, cenaiz32; Müslim, Cenaiz14)",
+            "Sabır üçtür: Musibet anında sabır, ibadette sabır, günaha karşı sabır. (Beyhakî, Şuabü’l - Îmân, 7 / 125)",
+            "Hiçbir kula, sabırdan daha hayırlı ve daha geniş kapsamlı bir nimet verilmemiştie. (Buhârî, Merdâ 9; Müslim, Zekât 76)"
         ],
         proverbs: [
-            "SABIR,GÖNLÜN ALLAHA TAM TESLİMİYETİDİR(SÜLEYMAN HİLMİ TUNAHAN.)",
-            "EĞER SABIR VE KANAATİ ÖĞRENMEK İSTİYORSAN HACE MUHAMMED ZAHİDİN SOHBEDİNE VE HİZMETİNE SARIL(HACE DERVİŞ MEHMED KS.)",
-            "SABIR, İMANIN YARISIDIR.SABREDEN KİŞİ, ALLAHIN YARDIMINA EN YAKIN OLANDIR(AHMED BİN HAMBEL) "
-
+            "Sabır, Gönlün Allaha tam Teslimiyetidir (SÜLEYMAN HİLMİ TUNAHAN.)",
+            "Eğer sabır ve kanaati öğrenmek istiyorsan Hace Muhammed Zahidin sohbetine ve hizmetine sarıl (HACE DERVİŞ MEHMED KS.)",
+            "Sabır, İmanın yarısıdır. Sabreden kişi, Allahın yardımına en yakın olandır (Ahmed Bİn Hambel)"
         ]
     },
     {
@@ -106,10 +103,9 @@ const moods = [
 
         ],
         proverbs: [
-            "DÜNYADA BİRAZ YORUL; ÇÜNKÜ EDEBİ İSTİRAHAT, AHİRETTEDİR(İMAM AHMED BİN HAMBEL)",
-            "KUL, RABBİNİN RIZASI İÇİN YORULDUĞUNDA, BU YORGUNLUK RAHMETE DÖNÜŞÜR(İMAM GAZALİ)",
-            "MÜMİN, AKŞAM OLDUĞUNDA YORGUNDUR; ÇÜNKÜ YA BİR HAYIR PEŞİNDE KOŞMUŞTUR YADA BİR GÜNAHA KARŞI DİRENMİŞTİR(HASAN-I BASRİ)"
-
+            "Dünyada biraz yorul; Çünkü edebi istirahat, Ahirettedir (İMAM AHMED BİN HAMBEL)",
+            "Kul, Rabbinin rızası için yorulduğunda, Bu yorgunluk rahmete dönüşür (İmam Gazali)",
+             "Mümin, Akşam olduğunda yorgundur; Çünk ya bir hayır peşinde koşmuştur yada bir günaha karşı direnmiştir (Hasan-I Basri)"
         ]
     },
 
