@@ -2,174 +2,116 @@ const moods = [
     {
         name: "Mutlu",
         hadiths: [
-            "Müminin durumu şaşırtıcıdır. Çünkü her hali onun için hayırlıdır. Eğer bir iyilik yaparsa şükreder, bu ona hayır olur. Eğer bir sıkıntıya düşerse sabreder, bu da ona hayır olur.",
-            "Mümin, bal arısına benzer. İyi ve temiz olandan yer, iyi ve temiz üretir, iyi ve temiz yere konar.",
-            "Mümin, yaprağı düşmeyen bir ağaç gibidir."
+            "Gerçek zenginlik, mal çokluğu değil; gönül tokluğudur.(Buhârî, Rikak 15; Müslim, Zekât 120) ",
+            "Müminin hâli ne hoştur! Çünkü onun her işi hayırdır.Bu durum sadece mümine mahsustur: Başına bir sevinç gelirse şükreder, bu onun için hayır olur.Başına bir sıkıntı gelirse sabreder, bu da onun için hayır olur.( Müslim, Zühd 64)",
+            "Allah bir kula hayır murat ettiğinde, onu dinde anlayışlı kılar.(Buhârî, İlim 10; Müslim, İmân 103) "
         ],
         proverbs: [
             "Mutluluk, Allah'ın sana verdiği her şeyin kıymetini bilmektir(İMAMI GAZALİ)",
-            "Mutluluk, kalbin Allah ile olan bağlantısıdır.",
-            "Gerçek mutluluk, Allah'ın rızasını kazanmaktır."
+            "GERÇEK MUTLULUK DIŞARIDAN DEĞİL, İÇERİDEN GELİR, KALBİN HUZURU, RABBİNE YAKIN OLDUĞUN ZAMAN BAŞLAR(MEVLANA.)",
+            "KUL, ALLAHA OLAN SEVGİSİ VE O NA İTAATİ ÖLÇÜSÜNDE GERÇEK MUTLULUĞU TADAR(İBN RECEB EL - HANBELİ.)"
         ]
     },
     {
         name: "Üzgün",
         hadiths: [
-            "Allah'ım! Üzüntüden ve kederden sana sığınırım. Acizlikten ve tembellikten sana sığınırım. Korkaklıktan ve cimrilikten sana sığınırım.",
-            "Üzüntü ve keder, imanın zayıflığındandır.",
-            "Allah, üzüntüyü de sevinci de bir imtihan olarak yaratmıştır."
+            "Müminin başına gelen yorgunluk, hastalık, endişe, üzüntü, keder ve hatta ayağına batan bir diken bile; Allah, bunların hepsiyle onun günahlarını bağışlar.(Buhârî, Merdâ 1; Müslim, Birr 49) ",
+            "Allah'ım! Senden üzüntü ve kederden sana sığınırım...(Ebû Dâvûd, Salât 367; Nesâî, İstiâze 12)",
+            "Allah Teâlâ şöyle buyurur: 'Ben, kulumun kulum hakkımdaki zannı üzereyim. O, Beni andığında onunla beraberim.( Buhârî, Tevhîd 15; Müslim, Zikir 2)"
         ],
         proverbs: [
             "DÜNYANIN KEDERLERİ KALBİNİ SARDIĞINDA, BİLKİ RABBİN SENİ KENDİNE ÇAĞIRMAKTADIR(HASAN-I BASRİ.)",
-            "Üzüntü, Allah'ın rahmetinin bir işaretidir.",
-            "Keder, kalbin Allah'a olan özleminin bir göstergesidir."
-        ]
-    },
-    {
-        name: "Nankör",
-        hadiths: [
-            "Güçlü kimse, öfkelendiğinde kendini tutabilen kimsedir.",
-            "nankör","nankör2","nankör3"
-        ],
-        
-        proverbs: [
-            "SİZE NİMETLER GELDİĞİ ZAMAN ŞÜKRÜ AZ YAPARAK UZAKTAKİNİ DE KAÇIRMAYIN(HZ. ALİ)",
-            "NİMETE ŞÜKRETMEYEN, ONU KAYBETMEYE EN YAKIN OLANDIR. NANKÖRLÜK, KALBİ KARARTAN BİR PERDEDİR(İBN KAYYİM EL-CEVZİYYE)",
-            "NANKÖRLÜK, NİMETİN BAŞLANGICINDA BAŞLAR, KAYBI İSE SONUNDA GELİR(HZ. ALİ)"
+            " KALBİN HÜZÜNLÜYSE, BİL Kİ ALLAH ONU HATIRLAMANI İSTEMİŞTİR(İMAMI ŞAFİİ.)",
+            "HÜZÜN GELDİĞİNDE SABRET; ÇÜNKÜ HER HÜZÜN, ALLAHIN RAHMETİNE AÇILAN BİR KAPIDIR(ABDULKADİR GEYLANI HZ.)"
         ]
     },
     {
         name: "Öfkeli",
         hadiths: [
-            "Güçlü kimse, öfkelendiğinde kendini tutabilen kimsedir.",
-            "hadis2",
-            "hadis3"
+            " Güçlü kimse, güreşte başkalarını yenen değil; öfkelendiği zaman nefsine hâkim olandır.(Sahih Buhârî, Edeb 76; Sahih Müslim, Birr 106)",
+            "Sizden biri ayakta iken öfkelenirse, hemen otursun. Öfkesi geçmezse, uzansın. (Yer değiştirerek sakinleşmeye çalışsın.) ( Ebû Dâvûd, Edeb 3; Ahmed bin Hanbel, Müsned 5/152)",
+            "Öfke şeytandandır. Şeytan ise ateşten yaratılmıştır. Ateş ancak su ile söndürülür. Sizden biri öfkelendiğinde hemen abdest alsın.(Ebû Dâvûd, Edeb 3; Ahmed bin Hanbel, Müsned 4/226)"
+
         ],
         proverbs: [
             "ÖFKE, AKLIN ZİNCİRİDİR.ÖFKELENDİĞİNDE DİLİNİ TUT VE KALBİNİ SOĞUT(HZ. ALİ)",
-            "yazı2",
-            "yazı3"
+            "KİŞİ DİLİNİN ALTINDA GİZLİDİR(HZ. ALİ)",
+            "BİR GÖNÜL YIKMAK, KABEYİ YIKMAKTAN BETERDİR(SÜLEYMAN HİLMİ TUNAHAN.)"
         
         ]
     },
     {
         name: "Korkulu",
         hadiths: [
-            "Allah'tan başkasından korkmayın.",
-            "hadis2",
-            "hadis3"
+            "Kim bir şeyden korkarsa,hemen yola çıkar(tedbirini alır).Kim de yola çıkarsa, menziline ulaşır. Dikkat edin! Allah’ın malı kıymetlidir.Allah’ın malı cennettir.( Tirmizî Kıyâmet 60)",
+            "Ümmetimden bir topluluk kıyamete kadar hak üzere olacaktır. Onlara karşı çıkanlar, onlara zarar veremeyecektir. Nihayet Allah’ın emri (kıyamet) gelinceye kadar onlar bu hâl üzere kalacaktır.(Buhârî, Fiten 27; Müslim, İmâre 175)",
+            "Allah’tan hakkıyla korkun! Eğer bir dağın tepesinde bile olsanız, Allah rızası için doğruyu söyleyin. (İbn Mâce, Fiten 14)"
         ],
         proverbs: [
             "BELA VAKTİNDE SIZLANMAK, FERYAD ETMEK, MİHNETİ (SIKINTIYI) ARTTIRIR(HZ. ALİ)",
-            "yazı2",
-            "yazı3"
+            "KORKU, YALNIZCA ALLAHTAN OLMALIDIR; ÇÜNKÜ ALLAHIN İRADESİNE BOYUN EĞMEK, HER TÜRLÜ KORKUYU ORTADAN KALDIRIR(İBN TEYMİYYE)",
+            "ALLAHA OLAN GÜVEN, KALPTEN KORKUYU SİLER. ALLAHA TEVEKKÜL EDEN, HER TÜRLÜ KORKUDAN KURTULUR(İMAM GAZALİ)"
         ]
 
     },
     {
         name: "Cömert",
         hadiths: [
-            "Cömert, Allah'a yakındır.",
-            "hadis2",
-            "hadis3"
+           "Cömertlik, Allah’a yakınlıktır.Cimrilik ise, kişiyi Allah’tan uzaklaştıran bir durumdur.(Tirmizî, Zühd 25) ",
+            "Allah, cömert olan kuluna rahmet eder. Eğer cömert olursa, Allah onu affeder ve ona genişlik verir.(Buhârî, Zekât 1)",
+            "Her bir insanın cebinde iki şey vardır: Biri sadakadır, diğeri şükürdür. Allah, sadaka verenin karşılığını kat kat verir.(Tirmizî, Zekât 19)"
         ],
         proverbs: [
             "CİMRİYİ,MALININ BİR FELAKET İLE YOK OLABİLECEĞİ VEYA VARİSE KALABİLECEĞİ İLE KORKUT(HZ.ALİ)",
-             
-            "yazı2",
-            "yazı3"
+            "NİMETLERİN ELDN KAÇMASINDAN KORKUNUZ, MALLARINIZI İSRAF ETMEYİNİZ(HZ. ALİ)",
+            "CÖMERTLİK, GÖNLÜN ZENGİNLİĞİDİR. MALIN ARTMASI, CÖMERTLİKLE OLUR(HZ. ALİ)"
         ]
     },
     {
         name: "Adil",
         hadiths: [
-            "Cömert, Allah'a yakındır.",
-            "hadis2",
-            "hadis3"
+            " Adil olanlar, Allah katında nurdan minberler üzerinde olacaklardır. Bunlar; hem aileleri hem idare ettikleri insanlar hem de sorumlu oldukları konularda adaletle davrananlardır.(Müslim, İmâret 18)",
+            " Üç kişi vardır ki, kıyamet günü Allah onları gölgesi altına alır: Adil yönetici, Rabbine ibadetle yetişen genç, yalnız kaldığında Allah’ı zikreden ve gözyaşı döken kimse.(Buhârî, Ezân 36; Müslim, Zekât 91)",
+            "Kim bir Müslümanın hakkını almak için adaleti uygular ve taraf tutmadan hükmederse, Allah onu Cennet'in en yüksek derecesine çıkarır.(Taberânî, el - Mu’cemü’l - Kebîr 6 / 140)"
 
         ],
         proverbs: [
             "ADALET,YÖNETİCİNİN SÜSÜ; ZULÜM İSE ÇÖKÜŞÜN BAŞLANGICIDIR. ADALETLE HÜKMEDEN, HALKIN DUASINI ALIR, RABBİN RIZASINI KAZANIR(ÖMER BİN ABDUL AZİZ)",
-            "yazı2",
-             "yazı3"
+            "ADALET, KALBİN TERAZİSİDİR. NEFSİNE KARŞI ADİL OLMAYAN, BAŞKASINA ADALETİ NASIL SAĞLAYABİLİR?(İMAM ŞAFİ)",
+             "ADALET, İNSANLIĞIN DİREĞİDİR. O YIKILIRSA, TOPLUM ÇÖKER; ÇÜNKÜ ADLET OLMADAN DÜZEN, DÜZEN OLMADAN HUZUR OLMAZ.(İBN HAZM),"
 
         ]
     },
     {
         name: "Sabırlı",
         hadiths: [
-            "Sabır, imanın yarısıdır.",
-            "hadis2",
-            "hadis3"
+            "Sabır, musibetin başına geldiği ilk andadır.(Buhârî, Cenâiz 32; Müslim, Cenâiz 14) ",
+            "Sabır üçtür: Musibet anında sabır, ibadette sabır, günaha karşı sabır.(Beyhakî, Şuabü’l - Îmân, 7 / 125) ",
+            "Hiçbir kula, sabırdan daha hayırlı ve daha geniş kapsamlı bir nimet verilmemiştir.(Buhârî, Merdâ 9; Müslim, Zekât 76)"
 
         ],
         proverbs: [
             "SABIR,GÖNLÜN ALLAHA TAM TESLİMİYETİDİR(SÜLEYMAN HİLMİ TUNAHAN.)",
-            "yazı2",
-            "yazı3"
-
-        ]
-    },
-    {
-        name: "Gaflet",
-        hadiths: [
-            "Merhamet edenlere Allah da merhamet eder.",
-            "hadis2",
-            "hadis3"
-
-        ],
-        proverbs: [
-            "İNSANLAR UYKUDADIRLAR ANCAK ÖLDÜKLERİNDE UYANIRLAR(HZ. ALİ).",
-            "yazı2",
-             "yazı3"
+            "EĞER SABIR VE KANAATİ ÖĞRENMEK İSTİYORSAN HACE MUHAMMED ZAHİDİN SOHBEDİNE VE HİZMETİNE SARIL(HACE DERVİŞ MEHMED KS.)",
+            "SABIR, İMANIN YARISIDIR.SABREDEN KİŞİ, ALLAHIN YARDIMINA EN YAKIN OLANDIR(AHMED BİN HAMBEL) "
 
         ]
     },
     {
         name: "Yorgun",
         hadiths: [
-            "Fedakarlık, imanın bir parçasıdır.",
-            "hadis2",
-             "hadis3"
+            "Müminin başına gelen her yorgunluk, hastalık, tasa, üzüntü, eziyet ve keder — hatta ayağına batan bir diken bile — Allah tarafından onun günahlarına kefaret kılınır. (Buhârî, Merdâ 1; Müslim, Birr 49) ",
+           "Hiçbir amel, bir mümine cehennemden daha uzak bir derece kazandırmaz ki; onunla yorgunluk, sıkıntı, meşakkat veya gam çekmiş olmasın.(Ahmed b. Hanbel, Müsned 5/24)",
+            "İnsanlar sabahleyin kalkar ve nefislerini pazara sürerler: Kimi onu satar ve azat eder (kurtarır), kimi ise helâk eder.(Müslim, Müsâkat 107) "
 
         ],
         proverbs: [
             "DÜNYADA BİRAZ YORUL; ÇÜNKÜ EDEBİ İSTİRAHAT, AHİRETTEDİR(İMAM AHMED BİN HAMBEL)",
-            "yazı2",
-            "yazı3"
+            "KUL, RABBİNİN RIZASI İÇİN YORULDUĞUNDA, BU YORGUNLUK RAHMETE DÖNÜŞÜR(İMAM GAZALİ)",
+            "MÜMİN, AKŞAM OLDUĞUNDA YORGUNDUR; ÇÜNKÜ YA BİR HAYIR PEŞİNDE KOŞMUŞTUR YADA BİR GÜNAHA KARŞI DİRENMİŞTİR(HASAN-I BASRİ)"
 
         ]
     },
-    {
-        name: "Cimri",
-        hadiths: [
-            "Fedakarlık, imanın bir parçasıdır.",
-            "hadis2",
-            "hadis3"
-
-        ],
-        proverbs: [
-            "CİMRİLİK, AYIPLARIN BÜTÜN KÖTÜLÜKLERİNİ KENDİSİNDE TOPLAR(HZ. ALİ)",
-            "yazı2",
-            "yazı3"
-
-        ]
-    },
-    {
-        name: "Merhametli",
-        hadiths: [
-            "Merhamet edenlere Allah da merhamet eder.",
-            "hadis2",
-            "hadis3"
-
-        ],
-        proverbs: [
-            " DÜŞMANINI MAĞLUP ETTİĞN VAKİT, ZAFERİNE ŞÜKÜR OLARAK ONU AFFET(HZ. ALİ)",
-            "yazı2",
-            "yazı3"
-
-        ]
-    }
 
 ];
 
