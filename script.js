@@ -2,169 +2,175 @@ const moods = [
     {
         name: "Mutlu",
         hadiths: [
-            "Mümin, bal arısına benzer. İyi ve temiz olandan yer, iyi ve temiz olan üretir, iyi ve temiz olan yere konar. Hiçbir şeyi kırıp dökmez.",
-            "Müminin yüzünde tebessüm, sadakadır.",
-            "Güzel söz sadakadır."
+            "Müminin durumu şaşırtıcıdır. Çünkü her hali onun için hayırlıdır. Eğer bir iyilik yaparsa şükreder, bu ona hayır olur. Eğer bir sıkıntıya düşerse sabreder, bu da ona hayır olur.",
+            "Mümin, bal arısına benzer. İyi ve temiz olandan yer, iyi ve temiz üretir, iyi ve temiz yere konar.",
+            "Mümin, yaprağı düşmeyen bir ağaç gibidir."
         ],
         proverbs: [
-            "Gülü seven dikenine katlanır.",
-            "Neşe, sağlığın anahtarıdır.",
-            "Gülü seven gül kokar."
+            "Mutluluk, Allah'ın sana verdiği her şeyin kıymetini bilmektir(İMAMI GAZALİ)",
+            "Mutluluk, kalbin Allah ile olan bağlantısıdır.",
+            "Gerçek mutluluk, Allah'ın rızasını kazanmaktır."
         ]
     },
     {
         name: "Üzgün",
         hadiths: [
             "Allah'ım! Üzüntüden ve kederden sana sığınırım. Acizlikten ve tembellikten sana sığınırım. Korkaklıktan ve cimrilikten sana sığınırım.",
-            "Her zorlukla beraber bir kolaylık vardır.",
-            "Allah'ın rahmetinden ümit kesmeyin."
+            "Üzüntü ve keder, imanın zayıflığındandır.",
+            "Allah, üzüntüyü de sevinci de bir imtihan olarak yaratmıştır."
         ],
         proverbs: [
-            "Güneş girmeyen eve doktor girer.",
-            "Her şeyin bir vakti var.",
-            "Gam dağına çıkmayan, sevincin tadını bilmez."
+            "DÜNYANIN KEDERLERİ KALBİNİ SARDIĞINDA, BİLKİ RABBİN SENİ KENDİNE ÇAĞIRMAKTADIR(HASAN-I BASRİ.)",
+            "Üzüntü, Allah'ın rahmetinin bir işaretidir.",
+            "Keder, kalbin Allah'a olan özleminin bir göstergesidir."
         ]
     },
     {
-        name: "Endişeli",
-        hadith: "Allah'ım! Korku ve endişeden sana sığınırım. Güçsüzlükten ve tembellikten sana sığınırım. Cimrilikten ve korkaklıktan sana sığınırım.",
-        proverb: "Korkunun ecele faydası yoktur."
-    },
-    {
-        name: "Huzurlu",
-        hadith: "Allah'ım! Senden huzur ve sükunet istiyorum. Kalbimi huzurla doldur.",
-        proverb: "Huzur içinde yaşamak, dünyanın en büyük zenginliğidir."
+        name: "Nankör",
+        hadiths: [
+            "Güçlü kimse, öfkelendiğinde kendini tutabilen kimsedir.",
+            "nankör","nankör2","nankör3"
+        ],
+        
+        proverbs: [
+            "SİZE NİMETLER GELDİĞİ ZAMAN ŞÜKRÜ AZ YAPARAK UZAKTAKİNİ DE KAÇIRMAYIN(HZ. ALİ)",
+            "NİMETE ŞÜKRETMEYEN, ONU KAYBETMEYE EN YAKIN OLANDIR. NANKÖRLÜK, KALBİ KARARTAN BİR PERDEDİR(İBN KAYYİM EL-CEVZİYYE)",
+            "NANKÖRLÜK, NİMETİN BAŞLANGICINDA BAŞLAR, KAYBI İSE SONUNDA GELİR(HZ. ALİ)"
+        ]
     },
     {
         name: "Öfkeli",
-        hadith: "Güçlü kimse, öfkelendiğinde kendini tutabilen kimsedir.",
-        proverb: "Öfke ile kalkan zararla oturur."
-    },
-    {
-        name: "Yorgun",
-        hadith: "Allah'ım! Tembellikten ve güçsüzlükten sana sığınırım.",
-        proverb: "İşleyen demir pas tutmaz."
-    },
-    {
-        name: "Heyecanlı",
-        hadith: "Allah'ım! Kalbimi heyecanla doldur ve beni doğru yola ilet.",
-        proverb: "Heyecan, başarının anahtarıdır."
-    },
-    {
-        name: "Kızgın",
-        hadith: "Öfkenizi yutun, affedin ve bağışlayın.",
-        proverb: "Kızgınlık geçici bir deliliktir."
-    },
-    {
-        name: "Şükredici",
-        hadith: "Şükreden kul, nimeti artırır.",
-        proverb: "Şükür, nimetin artmasına sebeptir."
-    },
-    {
-        name: "Sabırsız",
-        hadith: "Sabır, imanın yarısıdır.",
-        proverb: "Sabır acıdır, meyvesi tatlıdır."
-    },
-    {
-        name: "Umutlu",
-        hadith: "Allah'ın rahmetinden ümit kesmeyin.",
-        proverb: "Umut, hayatın tuzudur."
+        hadiths: [
+            "Güçlü kimse, öfkelendiğinde kendini tutabilen kimsedir.",
+            "hadis2",
+            "hadis3"
+        ],
+        proverbs: [
+            "ÖFKE, AKLIN ZİNCİRİDİR.ÖFKELENDİĞİNDE DİLİNİ TUT VE KALBİNİ SOĞUT(HZ. ALİ)",
+            "yazı2",
+            "yazı3"
+        
+        ]
     },
     {
         name: "Korkulu",
-        hadith: "Allah'tan başkasından korkmayın.",
-        proverb: "Korku, akıllı adamın düşmanıdır."
-    },
-    {
-        name: "Minettar",
-        hadith: "İnsanlara teşekkür etmeyen, Allah'a da şükretmez.",
-        proverb: "Minnet, altın bir kafestir."
-    },
-    {
-        name: "Merhametli",
-        hadith: "Merhamet edenlere Allah da merhamet eder.",
-        proverb: "Merhamet, en yüce erdemdir."
-    },
-    {
-        name: "Şefkatli",
-        hadith: "Şefkat, imanın bir parçasıdır.",
-        proverb: "Şefkat, kalbin dilidir."
-    },
-    {
-        name: "Cesur",
-        hadith: "Allah'ım! Korkaklıktan sana sığınırım.",
-        proverb: "Cesaret, başarının anahtarıdır."
-    },
-    {
-        name: "Kararlı",
-        hadith: "Kararlı olan, başarıya ulaşır.",
-        proverb: "Kararlılık, zaferin yarısıdır."
-    },
-    {
-        name: "Vefalı",
-        hadith: "Vefa, imanın bir parçasıdır.",
-        proverb: "Vefa, dostluğun temelidir."
+        hadiths: [
+            "Allah'tan başkasından korkmayın.",
+            "hadis2",
+            "hadis3"
+        ],
+        proverbs: [
+            "BELA VAKTİNDE SIZLANMAK, FERYAD ETMEK, MİHNETİ (SIKINTIYI) ARTTIRIR(HZ. ALİ)",
+            "yazı2",
+            "yazı3"
+        ]
+
     },
     {
         name: "Cömert",
-        hadith: "Cömert, Allah'a yakındır.",
-        proverb: "Cömertlik, yoksulluğun ilacıdır."
-    },
-    {
-        name: "Alçakgönüllü",
-        hadith: "Alçakgönüllülük, imanın bir parçasıdır.",
-        proverb: "Alçakgönüllülük, yüceliğin başlangıcıdır."
-    },
-    {
-        name: "Affedici",
-        hadith: "Affetmek, en büyük erdemdir.",
-        proverb: "Affetmek, güçlünün işidir."
-    },
-    {
-        name: "Sabırlı",
-        hadith: "Sabır, imanın yarısıdır.",
-        proverb: "Sabır, acıdır ama meyvesi tatlıdır."
-    },
-    {
-        name: "Şükranlı",
-        hadith: "Şükreden kul, nimeti artırır.",
-        proverb: "Şükran, nimetin artmasına sebeptir."
-    },
-    {
-        name: "Müteşekkir",
-        hadith: "İnsanlara teşekkür etmeyen, Allah'a da şükretmez.",
-        proverb: "Teşekkür, minnetin ifadesidir."
-    },
-    {
-        name: "Fedakar",
-        hadith: "Fedakarlık, imanın bir parçasıdır.",
-        proverb: "Fedakarlık, sevginin en yüksek ifadesidir."
-    },
-    {
-        name: "Dürüst",
-        hadith: "Dürüstlük, imanın bir parçasıdır.",
-        proverb: "Dürüstlük, en iyi politikadır."
+        hadiths: [
+            "Cömert, Allah'a yakındır.",
+            "hadis2",
+            "hadis3"
+        ],
+        proverbs: [
+            "CİMRİYİ,MALININ BİR FELAKET İLE YOK OLABİLECEĞİ VEYA VARİSE KALABİLECEĞİ İLE KORKUT(HZ.ALİ)",
+             
+            "yazı2",
+            "yazı3"
+        ]
     },
     {
         name: "Adil",
-        hadith: "Adalet, mülkün temelidir.",
-        proverb: "Adalet, her şeyin temelidir."
+        hadiths: [
+            "Cömert, Allah'a yakındır.",
+            "hadis2",
+            "hadis3"
+
+        ],
+        proverbs: [
+            "ADALET,YÖNETİCİNİN SÜSÜ; ZULÜM İSE ÇÖKÜŞÜN BAŞLANGICIDIR. ADALETLE HÜKMEDEN, HALKIN DUASINI ALIR, RABBİN RIZASINI KAZANIR(ÖMER BİN ABDUL AZİZ)",
+            "yazı2",
+             "yazı3"
+
+        ]
     },
     {
-        name: "Hoşgörülü",
-        hadith: "Hoşgörü, imanın bir parçasıdır.",
-        proverb: "Hoşgörü, erdemlerin en yücesidir."
+        name: "Sabırlı",
+        hadiths: [
+            "Sabır, imanın yarısıdır.",
+            "hadis2",
+            "hadis3"
+
+        ],
+        proverbs: [
+            "SABIR,GÖNLÜN ALLAHA TAM TESLİMİYETİDİR(SÜLEYMAN HİLMİ TUNAHAN.)",
+            "yazı2",
+            "yazı3"
+
+        ]
     },
     {
-        name: "Vefakar",
-        hadith: "Vefa, imanın bir parçasıdır.",
-        proverb: "Vefa, dostluğun temelidir."
+        name: "Gaflet",
+        hadiths: [
+            "Merhamet edenlere Allah da merhamet eder.",
+            "hadis2",
+            "hadis3"
+
+        ],
+        proverbs: [
+            "İNSANLAR UYKUDADIRLAR ANCAK ÖLDÜKLERİNDE UYANIRLAR(HZ. ALİ).",
+            "yazı2",
+             "yazı3"
+
+        ]
+    },
+    {
+        name: "Yorgun",
+        hadiths: [
+            "Fedakarlık, imanın bir parçasıdır.",
+            "hadis2",
+             "hadis3"
+
+        ],
+        proverbs: [
+            "DÜNYADA BİRAZ YORUL; ÇÜNKÜ EDEBİ İSTİRAHAT, AHİRETTEDİR(İMAM AHMED BİN HAMBEL)",
+            "yazı2",
+            "yazı3"
+
+        ]
+    },
+    {
+        name: "Cimri",
+        hadiths: [
+            "Fedakarlık, imanın bir parçasıdır.",
+            "hadis2",
+            "hadis3"
+
+        ],
+        proverbs: [
+            "CİMRİLİK, AYIPLARIN BÜTÜN KÖTÜLÜKLERİNİ KENDİSİNDE TOPLAR(HZ. ALİ)",
+            "yazı2",
+            "yazı3"
+
+        ]
     },
     {
         name: "Merhametli",
-        hadith: "Merhamet edenlere Allah da merhamet eder.",
-        proverb: "Merhamet, en yüce erdemdir."
+        hadiths: [
+            "Merhamet edenlere Allah da merhamet eder.",
+            "hadis2",
+            "hadis3"
+
+        ],
+        proverbs: [
+            " DÜŞMANINI MAĞLUP ETTİĞN VAKİT, ZAFERİNE ŞÜKÜR OLARAK ONU AFFET(HZ. ALİ)",
+            "yazı2",
+            "yazı3"
+
+        ]
     }
+
 ];
 
 // Ruh hallerini grid'e ekle
@@ -177,26 +183,20 @@ moods.forEach(mood => {
     moodGrid.appendChild(moodItem);
 });
 
-// Random sayı üreten yardımcı fonksiyon
-function getRandomIndex(array) {
-    return Math.floor(Math.random() * array.length);
-}
-
 // Seçilen ruh halinin detaylarını göster
 function showMoodDetails(mood) {
     const resultContainer = document.getElementById('resultContainer');
     const selectedMood = document.getElementById('selectedMood');
-    const hadith = document.getElementById('hadith');
+    const hadiths = document.getElementById('hadiths');
     const proverb = document.getElementById('proverb');
 
+    // Rastgele bir hadis ve atasözü seç
+    const randomhadiths = mood.hadiths[Math.floor(Math.random() * mood.hadiths.length)];
+    const randomProverb = mood.proverbs[Math.floor(Math.random() * mood.proverbs.length)];
+
     selectedMood.textContent = mood.name;
-    
-    // Random hadis ve atasözü seç
-    const randomHadithIndex = getRandomIndex(mood.hadiths);
-    const randomProverbIndex = getRandomIndex(mood.proverbs);
-    
-    hadith.textContent = mood.hadiths[randomHadithIndex];
-    proverb.textContent = mood.proverbs[randomProverbIndex];
+    hadiths.textContent = randomhadiths;
+    proverb.textContent = randomProverb;
 
     resultContainer.style.display = 'block';
     resultContainer.scrollIntoView({ behavior: 'smooth' });
