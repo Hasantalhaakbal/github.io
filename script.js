@@ -187,15 +187,15 @@ moods.forEach(mood => {
 function showMoodDetails(mood) {
     const resultContainer = document.getElementById('resultContainer');
     const selectedMood = document.getElementById('selectedMood');
-    const hadiths = document.getElementById('hadiths');
+    const hadith = document.getElementById('hadith');
     const proverb = document.getElementById('proverb');
 
     // Rastgele bir hadis ve atasözü seç
-    const randomhadiths = mood.hadiths[Math.floor(Math.random() * mood.hadiths.length)];
+    const randomhadith = mood.hadiths[Math.floor(Math.random() * mood.hadiths.length)];
     const randomProverb = mood.proverbs[Math.floor(Math.random() * mood.proverbs.length)];
 
     selectedMood.textContent = mood.name;
-    hadiths.textContent = randomhadiths;
+    hadith.textContent = randomhadith;
     proverb.textContent = randomProverb;
 
     resultContainer.style.display = 'block';
