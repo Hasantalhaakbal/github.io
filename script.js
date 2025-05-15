@@ -36,7 +36,7 @@ const moods = [
         proverbs: [
             "Öfke aklın zinciridir. Öfkelendiğinde dilini tut ve kalbini soğut (HZ:ALİ)",
             "Kişi dilinin altında gizlidir (HZ: ALİ)",
-            "Bir gönül yıkmak, kabeyi yıkmaktan beterdir (SÜLEYMAN HİLMİ TUNAHAN HZ.)
+            "Bir gönül yıkmak, kabeyi yıkmaktan beterdir (SÜLEYMAN HİLMİ TUNAHAN HZ.)"
         
         ]
     },
