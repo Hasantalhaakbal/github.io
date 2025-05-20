@@ -2,14 +2,14 @@ const moods = [
     {
         name: "İsteksiz",
         hadiths: [
-            "Gerçek zenginlik, mal çokluğu değil; gönül tokluğudur.(Buhârî, Rikak 15; Müslim, Zekât 120) ",
-            "Müminin hâli ne hoştur! Çünkü onun her işi hayırdır.Bu durum sadece mümine mahsustur: Başına bir sevinç gelirse şükreder, bu onun için hayır olur.Başına bir sıkıntı gelirse sabreder, bu da onun için hayır olur.( Müslim, Zühd 64)",
-            "ALLAH bir kula hayır murat ettiğinde, onu dinde anlayışlı kılar (Buhari, ilim 10; Müslim, İman 103)"
+            "Hiçbiriniz,arzu ettiği bir şey için tembellik etmesin.Allah'an istemeye devam etsin(Tirmizi,Zühd 60;Ahmed b.Hanbel,Müsned,3/28)",
+            "Allahım Acizlikten,tembellikten,korkaklıktan,cimrilkten, ve ihtyarlığın kötülükleriden sana sığınırım(Buhârî, Daavât 38; Müslim, Zikir 50)",
+            "Mümin güçlüdür; zayıf müminden daha hayırlı ve Allah’a daha sevimlidir. Ancak her ikisinde de hayır vardır. Sana faydalı olan şeye yönel, Allah’tan yardım dile ve acizlik gösterme.(Müslim, Kader 34)"
         ],
         proverbs: [
-            "Mutluluk, Allah'ın sana verdiği her şeyin kıymetini bilmektir(İMAMI GAZALİ)",
-            "Gerçek mutluluk dışarıdan değil, içeriden gelir, kalbin huzuru, rabbine yakın olduğu zaman başlar (MEVLANA.)",
-            "Kul, Allaha olan sevgisi ve ona itaati ölçüsünde gerçek mutluluğu tadar (İBN RECEB EL- HANBELİ.)"
+            "Öğrenmeye çalışan câhil, âlim gibidir. Kendini geliştirmeyen, düzenli bir çalışması olmayan tembel âlim de câhil gibidir.(Hz. Ali  r.a.)",
+            "Dünya tasası kalbe zulmet getirir, âhiret tasası ise kalbi nurlandırır.(Hz. Osman  r.a.)",
+            "Tembellik kalbi öldürür, çalışmak ise diriltir.(İmam Gazâlî (Rh.a.)"
         ]
     },
     {
