@@ -70,15 +70,15 @@ const moods = [
     {
         name: "Yalnız Hisseden",
         hadiths: [
-            " Adil olanlar, Allah katında nurdan minberler üzerinde olacaklardır. Bunlar; hem aileleri hem idare ettikleri insanlar hem de sorumlu oldukları konularda adaletle davrananlardır.(Müslim, İmâret 18)",
-            " Üç kişi vardır ki, kıyamet günü Allah onları gölgesi altına alır: Adil yönetici, Rabbine ibadetle yetişen genç, yalnız kaldığında Allah’ı zikreden ve gözyaşı döken kimse.(Buhârî, Ezân 36; Müslim, Zekât 91)",
-            "Kim bir Müslümanın hakkını almak için adaleti uygular ve taraf tutmadan hükmederse, Allah onu Cennet'in en yüksek derecesine çıkarır.(Taberânî, el - Mu’cemü’l - Kebîr 6 / 140)"
+            " Müminin başına gelen her türlü sıkıntı, üzüntü, hastalık, keder, yorgunluk ve hatta diken batması bile günahlarına kefaret olur.(Sahîh-i Buhari, Marda 1; Sahîh-i Müslim, Birr 49)",
+            "Kim Allah’a sabrederse, Allah ona sabrın güzelini verir.(Sahih-i Buhari, Müslim)",
+            "Kulların en sevimlisi, insanlara en faydalı olanıdır.(Taberani, el-Mu'cemu'l-Kebir, Hadis No: 4630; İbn Mâce, Zühd, 9)"
 
         ],
         proverbs: [
-            "Adalet, yöneticinin süsü; Zulmün ise çöküşünün başlangıcıdır. Adalete hükeden, halkın duasını alır, Rabbin rızasını kazanır (Ömer Bin Abdul Aziz)",
-            "Adalet, kalbin terazsisidir. Nefsine karşı adil olmayam, başkasına adaleti nasıl sağlayabilir (İmam Şafi)",
-             "Adalet, insanlığın direğidir. O yıkılırsa, toplum çöker; Çünkü adalet olmadan düzen, Düzen olmadan huzur olmaz. (İbn Hazm)"
+            "Salih bir kimseyle olmak, yalnızlıktan daha iyidir; yalnızlık ise, kötü biriyle arkadaşlıktan daha iyidir.(İmam Gazâlî (rh.a.))",
+            "Yalnızlık, adam olmayanın vereceği sevgiden, saygıdan yeğdir.(Mevlânâ Celâleddîn-i Rûmî (k.s.))",
+             "Gerçek sabır, musibetin ilk anında gösterilendir.(Sahih-i Buhârî, Cenâiz 32; Müslim, Cenâiz 14)"
         ]
     },
     {
