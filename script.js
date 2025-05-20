@@ -22,21 +22,21 @@ const moods = [
         proverbs: [
             "Mazlumun duasından sakının, çünkü onunla Allah arasında perde yoktur(Buhârî, Mezâlim 9)",
             "Kıyamet günü haklar ödeninceye kadar insanlar arasında hüküm verilir.(Sahîh-i Müslim, Birr 15; Tirmizî, Kıyâmet 2)",
-            "Haksızlık edenin sevapları alınır, mazluma verilir.(Sahîh-i Buhârî, Mezâlim 10; Riyâzu’s-Sâlihîn, Hadis No: 204)"
+            "Haksızlık edenin sevapları alınır, mazluma verilir.(Sahîh-i Buhârî, Mezâlim 10; Riyâzu’s-Sâlihîn)"
         ]
     },
     {
         name: "Anlaşılmamış",
         hadiths: [
-            " Güçlü kimse, güreşte başkalarını yenen değil; öfkelendiği zaman nefsine hâkim olandır.(Sahih Buhârî, Edeb 76; Sahih Müslim, Birr 106)",
-            "Sizden biri ayakta iken öfkelenirse, hemen otursun. Öfkesi geçmezse, uzansın. (Yer değiştirerek sakinleşmeye çalışsın.) ( Ebû Dâvûd, Edeb 3; Ahmed bin Hanbel, Müsned 5/152)",
-            "Öfke şeytandandır. Şeytan ise ateşten yaratılmıştır. Ateş ancak su ile söndürülür. Sizden biri öfkelendiğinde hemen abdest alsın.(Ebû Dâvûd, Edeb 3; Ahmed bin Hanbel, Müsned 4/226)"
+            "Allah’tan başkasının rızasını gözeterek bir iş yapan kişi, Allah’ın gazabına uğrar. Allah için bir iş yapan kişiyse, insanlar kızsa da Allah onu korur.(İbn Hibbân, Sahîh, 276)",
+            "Ameller niyetlere göredir. Herkesin niyeti neyse eline geçecek olan odur.(Sahîh-i Buhârî, Bed’ü’l-Vahy 1; Sahîh-i Müslim, İmâre 155)",
+            "Müminin niyeti amelinden hayırlıdır. Münâfığın ameli ise niyetinden şerlidir. Herkes niyetine göre amel eder.(Beyhakî, Şuabü’l-İmân, c. 5, s. 342; Taberânî, el-Mu’cemü’l-Evsat, 6/156)"
 
         ],
         proverbs: [
-            "Öfke aklın zinciridir. Öfkelendiğinde dilini tut ve kalbini soğut (HZ:ALİ)",
-            "Kişi dilinin altında gizlidir (HZ: ALİ)",
-            "Bir gönül yıkmak, kabeyi yıkmaktan beterdir (SÜLEYMAN HİLMİ TUNAHAN HZ.)"
+            "Allah sizin suretlerinize ve mallarınıza bakmaz; kalplerinize ve amellerinize bakar.(Müslim, Birr 33; İbn Mâce, Zühd 9)",
+            "Kim Allah’tan başkası için yaparsa, o kişi Allah katında makbul değildir.(Nesaî, Cihâd 24; Ahmed b. Hanbel, Müsned, 6/8)",
+            "Kim insanların takdirini beklerse, Allah’ın rahmetinden mahrum kalır.(Hz. Ali (r.a) — Nehcü’l-Belâğa, Hikmetler Bölümü)"
         
         ]
     },
