@@ -1,6 +1,6 @@
 const moods = [
     {
-        name: "Mutlu",
+        name: "Hasan",
         hadiths: [
             "Gerçek zenginlik, mal çokluğu değil; gönül tokluğudur.(Buhârî, Rikak 15; Müslim, Zekât 120) ",
             "Müminin hâli ne hoştur! Çünkü onun her işi hayırdır.Bu durum sadece mümine mahsustur: Başına bir sevinç gelirse şükreder, bu onun için hayır olur.Başına bir sıkıntı gelirse sabreder, bu da onun için hayır olur.( Müslim, Zühd 64)",
