@@ -43,14 +43,14 @@ const moods = [
     {
         name: "Vazgeçmiş",
         hadiths: [
-            "Kim bir şeyden korkarsa,hemen yola çıkar(tedbirini alır).Kim de yola çıkarsa, menziline ulaşır. Dikkat edin! Allah’ın malı kıymetlidir.Allah’ın malı cennettir.( Tirmizî Kıyâmet 60)",
-            "Ümmetimden bir topluluk kıyamete kadar hak üzere olacaktır. Onlara karşı çıkanlar, onlara zarar veremeyecektir. Nihayet Allah’ın emri (kıyamet) gelinceye kadar onlar bu hâl üzere kalacaktır.(Buhârî, Fiten 27; Müslim, İmâre 175)",
-            "Allah’tan hakkıyla korkun! Eğer bir dağın tepesinde bile olsanız, Allah rızası için doğruyu söyleyin. (İbn Mâce, Fiten 14)"
+            "Kim Allah’a tevekkül etmekten vazgeçerse, kaybeder.(Tirmizî, Zühd 33; İbn Mâce, Zühd 14)",
+            "Kim bir hayra niyet eder de vazgeçerse, ona bir sevap yazılır.(Sahîh-i Buhârî, Rikâk 31; Sahîh-i Müslim, İmân 207)",
+            "Hiçbiriniz, ‘Artık dua ettim de kabul olunmadı’ diyerek dua etmekten vazgeçmesin.(Sahîh-i Buhârî, Daavât 22; Sahîh-i Müslim, Zikir 92)"
         ],
         proverbs: [
-            "Bela vaktinde sızlanmak, feryad etmek, mihneti (sıkıntıyı) arttırır (HZ ALİ.)",
-            "Korku, yalnızca allahtan olmalıdır; Çünkü Allahın iradesine boyun eğmek, Her türlü korkuyu ortadan kaldırır (İBN TEYMİYYE)",
-            "Allaha olan güven, Kalpten korkuyu siler. Allaha tevekkül eden, her türlü korkudan kurtulur (İmam Gazali)"
+            "Kim bir şeyi Allah için terk ederse, Allah ona ondan daha hayırlısını verir.(Ahmed b. Hanbel, Müsned, 5/363; Beyhakî, Şuabü’l-İmân, 5/344)",
+            "Allah için terk edilen her şey, yerini daha hayırlısıyla doldurur.(İmam İbn Kayyım el-Cevziyye, el-Fevâid, s. 166)",
+            "Sen Allah’a yönel, dünya sana meyleder.(İmam Şafiî'ye nispet edilir – Mekârimu’l-Ahlâk ve Dîvânu’ş-Şâfiî)"
         ]
 
     },
