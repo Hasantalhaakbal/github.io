@@ -15,14 +15,14 @@ const moods = [
     {
         name: "Haksızlığa uğramış",
         hadiths: [
-            "Müminin başına gelen yorgunluk, hastalık, endişe, üzüntü, keder ve hatta ayağına batan bir diken bile; Allah, bunların hepsiyle onun günahlarını bağışlar.(Buhârî, Merdâ 1; Müslim, Birr 49) ",
-            "Allah'ım! Senden üzüntü ve kederden sana sığınırım...(Ebû Dâvûd, Salât 367; Nesâî, İstiâze 12)",
-            "Allah Teâlâ şöyle buyurur: 'Ben, kulumun kulum hakkımdaki zannı üzereyim. O, Beni andığında onunla beraberim.( Buhârî, Tevhîd 15; Müslim, Zikir 2)"
+            "Kimin üzerine bir haksızlık (kul hakkı) varsa; dinar ve dirhemin bulunmayacağı (ahiret) günü gelmeden önce, onunla helalleşsin. Aksi takdirde, salih amelleri varsa, yaptığı haksızlık kadar alınır ve haksızlık yaptığı kişiye verilir. Eğer sevapları yoksa, mazlumun günahları alınır ve ona yüklenir.(Buhârî, Mezâlim, 10)",
+            "Müminin başına gelen her sıkıntı, hatta ayağına batan bir diken bile, Allah onun günahlarını bağışlamaya vesile kılar.(Buhârî, Merdâ, 1; Müslim, Birr, 49)",
+            "Bir kimse, haksız yere bir Müslümanın şerefini ayaklar altına alır ve ona iftira ederse; Allah da o kişiyi, cehennem köprülerinden geçerken rezil eder.(Ebû Dâvûd, Edeb 35; Ahmed b. Hanbel, Müsned, c. 2, s. 165)"
         ],
         proverbs: [
-            "Dünyanın kederleri kalbini sardığında, bilki rabbin seni kendine  çağırmaktadır (Hasan-ı Basri.)",
-            "Kalbin hüzünlüyse, bil ki ALLAH onu hatırlamanı istemiştir (İmamı şafii)",
-            "Hüzün geldiğinde sabret; Çünkü her hüzün, Allahın rahmetine açılan bir kapıdır (Abdulkadir Geylani HZ.)"
+            "Mazlumun duasından sakının, çünkü onunla Allah arasında perde yoktur(Buhârî, Mezâlim 9)",
+            "Kıyamet günü haklar ödeninceye kadar insanlar arasında hüküm verilir.(Sahîh-i Müslim, Birr 15; Tirmizî, Kıyâmet 2)",
+            "Haksızlık edenin sevapları alınır, mazluma verilir.(Sahîh-i Buhârî, Mezâlim 10; Riyâzu’s-Sâlihîn, Hadis No: 204)"
         ]
     },
     {
