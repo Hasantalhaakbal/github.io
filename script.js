@@ -55,16 +55,16 @@ const moods = [
 
     },
     {
-        name: "Yorulmuş",
+        name: "Yorgun",
         hadiths: [
-           "Cömertlik, Allah’a yakınlıktır.Cimrilik ise, kişiyi Allah’tan uzaklaştıran bir durumdur.(Tirmizî, Zühd 25) ",
-            "Allah, cömert olan kuluna rahmet eder. Eğer cömert olursa, Allah onu affeder ve ona genişlik verir.(Buhârî, Zekât 1)",
-            "Her bir insanın cebinde iki şey vardır: Biri sadakadır, diğeri şükürdür. Allah, sadaka verenin karşılığını kat kat verir.(Tirmizî, Zekât 19)"
+           "Allah kulunun yorgunluğunu, hastalığını, üzüntüsünü… hepsini günahlarına kefaret kılar.(Sahîh-i Buhârî, Marda 1; Sahîh-i Müslim, Birr 49)",
+            "İki nimet vardır, insanların çoğu bunlar konusunda aldanmıştır: sağlık ve boş vakit.(Buhârî, Rikâk 1)",
+            "Hiçbir kimse, kendi elinin emeğinden daha hayırlı bir rızık yememiştir.(Sahîh-i Buhârî, Büyû‘ 15; Ahmed b. Hanbel, Müsned 6/166)"
         ],
         proverbs: [
-            "Cimriyi, Malının bir felaket ile yok olabileceğini veya varise kalabileceği ile korkurt (HZ .ALİ)",
-            "Nimetlerin elden kaçmasından korkunuz, mallarınız israf etmeyiniz (HZ .ALİ)",
-            "Cömert, Gönlün zenginliğidir. Malın artması, Cömert olur (HZ. ALİ)"
+            "Kim sabrederse Allah ona sabır verir. Hiçbir kimseye sabırdan daha hayırlı ve daha geniş bir nimet verilmemiştir.(Buhârî, Zekât 10; Müslim, Zekât 76)",
+            "Hiçbir kimse, kendi elinin emeğinden daha hayırlı bir rızık yememiştir.(Buhârî, Büyû‘ 15)",
+            "Müslüman bir kimseye isabet eden yorgunluk, hastalık, keder, üzüntü ve hatta bir diken bile günahlarına kefaret olur.(Buhârî, Marda 1; Müslim, Birr 49)"
         ]
     },
     {
