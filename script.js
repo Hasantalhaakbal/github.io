@@ -134,19 +134,6 @@ const moods = [
         ]
     },
     {
-        name: "Umursamaz",
-        hadiths: [
-            "Sabır, Musibetin başına geldiği ilk andadır. (Buhari, cenaiz32; Müslim, Cenaiz14)",
-            "Sabır üçtür: Musibet anında sabır, ibadette sabır, günaha karşı sabır. (Beyhakî, Şuabü’l - Îmân, 7 / 125)",
-            "Hiçbir kula, sabırdan daha hayırlı ve daha geniş kapsamlı bir nimet verilmemiştie. (Buhârî, Merdâ 9; Müslim, Zekât 76)"
-        ],
-        proverbs: [
-            "Sabır, Gönlün Allaha tam Teslimiyetidir (SÜLEYMAN HİLMİ TUNAHAN.)",
-            "Eğer sabır ve kanaati öğrenmek istiyorsan Hace Muhammed Zahidin sohbetine ve hizmetine sarıl (HACE DERVİŞ MEHMED KS.)",
-            "Sabır, İmanın yarısıdır. Sabreden kişi, Allahın yardımına en yakın olandır (Ahmed Bİn Hambel)"
-        ]
-    },
-    {
         name: "Suçlanmış",
         hadiths: [
             "Sabır, Musibetin başına geldiği ilk andadır. (Buhari, cenaiz32; Müslim, Cenaiz14)",
