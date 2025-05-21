@@ -84,80 +84,80 @@ const moods = [
     {
         name: "Baskı Altında",
         hadiths: [
-            "Sabır, Musibetin başına geldiği ilk andadır. (Buhari, cenaiz32; Müslim, Cenaiz14)",
-            "Sabır üçtür: Musibet anında sabır, ibadette sabır, günaha karşı sabır. (Beyhakî, Şuabü’l - Îmân, 7 / 125)",
-            "Hiçbir kula, sabırdan daha hayırlı ve daha geniş kapsamlı bir nimet verilmemiştie. (Buhârî, Merdâ 9; Müslim, Zekât 76)"
+            "Kim sabrederse, Allah ona sabır verir. Hiçbir kimseye sabırdan daha hayırlı ve daha geniş bir nimet verilmemiştir.(Sahih Müslim, Zekât, 103)",
+            "İnsanlarla bir arada yaşayan ve onların eziyetlerine sabreden mümin, insanlarla bir arada yaşamayan ve onların eziyetlerine sabretmeyen müminden daha büyük ecre nail olur.(İslam ve İhsan, Sabırla İlgili Kısa Hadisler)",
+            "Gerçek sabır, musibetin geldiği ilk anda gösterilendir.(Sahih Buhari, Cenâiz 32; Müslim, Cenâiz 14)"
         ],
         proverbs: [
-            "Sabır, Gönlün Allaha tam Teslimiyetidir (SÜLEYMAN HİLMİ TUNAHAN.)",
-            "Eğer sabır ve kanaati öğrenmek istiyorsan Hace Muhammed Zahidin sohbetine ve hizmetine sarıl (HACE DERVİŞ MEHMED KS.)",
-            "Sabır, İmanın yarısıdır. Sabreden kişi, Allahın yardımına en yakın olandır (Ahmed Bİn Hambel)"
+            "Sıkıntının kalbinde bir rahmet gizlidir; bilen sabreder, gören teslim olur.(İmam Rabbânî (k.s.))",
+            "Sabır, sıkıntıyı yok etmez; fakat ruhu güçlendirir ve sonucu güzelleştirir.( İbn Atâullah el-İskenderî (k.s.))",
+            "Sıkıntılar geçicidir, gönül onlara sabredince ebedî rahatlığa kavuşur.(Abdülkâdir Geylânî (k.s.))"
         ]
     },
     {
         name: "Kıyaslanmış",
         hadiths: [
-            "Sabır, Musibetin başına geldiği ilk andadır. (Buhari, cenaiz32; Müslim, Cenaiz14)",
-            "Sabır üçtür: Musibet anında sabır, ibadette sabır, günaha karşı sabır. (Beyhakî, Şuabü’l - Îmân, 7 / 125)",
-            "Hiçbir kula, sabırdan daha hayırlı ve daha geniş kapsamlı bir nimet verilmemiştie. (Buhârî, Merdâ 9; Müslim, Zekât 76)"
+            "Allah sizin suretlerinize ve mallarınıza bakmaz; ancak kalplerinize ve amellerinize bakar.(Sahih-i Müslim, Birr 33; Müsned-i Ahmed, 2/285)",
+            "Allah katında en sevimli kul, takvaca en üstün olandır.(Tirmizî, Tefsir 49/3270)",
+            "İnsanların en hayırlısı, insanlara en çok faydası dokunandır.(Taberânî, Mu’cemü’l-Evsat, 5787)"
         ],
         proverbs: [
-            "Sabır, Gönlün Allaha tam Teslimiyetidir (SÜLEYMAN HİLMİ TUNAHAN.)",
-            "Eğer sabır ve kanaati öğrenmek istiyorsan Hace Muhammed Zahidin sohbetine ve hizmetine sarıl (HACE DERVİŞ MEHMED KS.)",
-            "Sabır, İmanın yarısıdır. Sabreden kişi, Allahın yardımına en yakın olandır (Ahmed Bİn Hambel)"
+            "İnsan, başkasına benzeyerek değil, kendine ait olarak kıymetlidir.(İmam Şâfiî (rh.a))",
+            "Kendini başkalarıyla değil, düne göre kıyasla. Çünkü Allah senin gayretine bakar.(İmam Rabbânî (k.s.))",
+            "Bir insanın değeri, sahip olduklarıyla değil, onlara karşı sabrıyla ölçülür.(İbn Teymiyye (rh.a))"
         ]
     },
     {
         name: "Öz Güvensiz",
         hadiths: [
-            "Sabır, Musibetin başına geldiği ilk andadır. (Buhari, cenaiz32; Müslim, Cenaiz14)",
-            "Sabır üçtür: Musibet anında sabır, ibadette sabır, günaha karşı sabır. (Beyhakî, Şuabü’l - Îmân, 7 / 125)",
-            "Hiçbir kula, sabırdan daha hayırlı ve daha geniş kapsamlı bir nimet verilmemiştie. (Buhârî, Merdâ 9; Müslim, Zekât 76)"
+            "Kendinizi küçük görmeyin. Sizden biriniz, hakkı bilip onu söylemekten çekinmesin.(İbn Mâce, Fiten, 20; Hâkim, el-Müstedrek, 4/512)",
+            "Allah sizin şeklinize ve mallarınıza bakmaz; fakat kalplerinize ve amellerinize bakar.(Müslim, Birr, 33)",
+            "Mümin, güçlü olanıdır. Allah, güçlü mümini zayıf müminden daha çok sever. Her birinde hayır vardır. Sana faydalı olanı iste, Allah’tan yardım dile, acizlik gösterme.(Müslim, Kader, 34; İbn Mâce, Mukaddime, 10)"
         ],
         proverbs: [
-            "Sabır, Gönlün Allaha tam Teslimiyetidir (SÜLEYMAN HİLMİ TUNAHAN.)",
-            "Eğer sabır ve kanaati öğrenmek istiyorsan Hace Muhammed Zahidin sohbetine ve hizmetine sarıl (HACE DERVİŞ MEHMED KS.)",
-            "Sabır, İmanın yarısıdır. Sabreden kişi, Allahın yardımına en yakın olandır (Ahmed Bİn Hambel)"
+            "Sen kendini küçük sansan da, sende büyük bir âlem gizlidir.(İmam Ali (r.a.), Nehcü'l-Belâğa, Hikmetler, No: 431)",
+            "İnsanı yücelten ne makamdır, ne maldır. Asıl yücelik, tevazu ve güzel ahlaktadır.(İmam Gazâlî, İhyâ-u Ulûmi’d-Dîn, Cilt 3)",
+            "Kendini küçük gören kişi, başkalarının büyüklüğünü abartır.(Abdülkadir Geylânî, Fütûhü’l-Gayb, 42. Mektup)"
         ]
     },
     {
         name: "Dışlanmış",
         hadiths: [
-            "Sabır, Musibetin başına geldiği ilk andadır. (Buhari, cenaiz32; Müslim, Cenaiz14)",
-            "Sabır üçtür: Musibet anında sabır, ibadette sabır, günaha karşı sabır. (Beyhakî, Şuabü’l - Îmân, 7 / 125)",
-            "Hiçbir kula, sabırdan daha hayırlı ve daha geniş kapsamlı bir nimet verilmemiştie. (Buhârî, Merdâ 9; Müslim, Zekât 76)"
+            "Müslüman, Müslümanın kardeşidir; ona zulmetmez, onu (yalnız) bırakmaz, onu küçük görmez.(Müslim, Birr, 32)",
+            "Kim bir müminin dünya sıkıntılarından birini giderirse, Allah da onun kıyamet günündeki sıkıntılarından birini giderir.(Buhârî, Mezâlim, 3; Müslim, Birr, 58)",
+            "Müminler, birbirlerine karşı iyi davranmakta, emniyette bulunmakta ve kardeşlikte birbirlerine karşı yumuşak davranmakta birleşmişlerdir.(Tirmizî, Birr ve Sıla, 12)"
         ],
         proverbs: [
-            "Sabır, Gönlün Allaha tam Teslimiyetidir (SÜLEYMAN HİLMİ TUNAHAN.)",
-            "Eğer sabır ve kanaati öğrenmek istiyorsan Hace Muhammed Zahidin sohbetine ve hizmetine sarıl (HACE DERVİŞ MEHMED KS.)",
-            "Sabır, İmanın yarısıdır. Sabreden kişi, Allahın yardımına en yakın olandır (Ahmed Bİn Hambel)"
+            "Gerçek dostluk, sıkıntılı zamanlarda belli olur; bazen yalnızlık, insanı Rabbine yaklaştıran bir nimettir.(İmam Gazâlî, İhyâ-u Ulûmi’d-Dîn, Cilt 4)",
+            "Kalbin bir köşesinde Allah’ın rızası varsa, dünya nefreti sana zarar veremez.(İbn Atâillâh el-İskenderî, Hikem, No: 78)",
+            "İnsanın değeri, başkalarının ona verdiği kıymetle değil, Allah’ın ona verdiği değerledir.(Mevlânâ Celâleddîn Rûmî, Mesnevî, Cilt 1)"
         ]
     },
     {
         name: "Suçlanmış",
         hadiths: [
-            "Sabır, Musibetin başına geldiği ilk andadır. (Buhari, cenaiz32; Müslim, Cenaiz14)",
-            "Sabır üçtür: Musibet anında sabır, ibadette sabır, günaha karşı sabır. (Beyhakî, Şuabü’l - Îmân, 7 / 125)",
-            "Hiçbir kula, sabırdan daha hayırlı ve daha geniş kapsamlı bir nimet verilmemiştie. (Buhârî, Merdâ 9; Müslim, Zekât 76)"
+            "Kim kendisine yapılan bir zulmü sabırla karşılarsa, Allah onun ayıplarını örter ve derecesini yükseltir.(Tirmizî, Birr, 25)",
+            "Mümin, müminin kardeşidir; ona zulmetmez, onu yalnız bırakmaz ve onu küçük düşürmez.(Müslim, Birr, 32)",
+            "Kişi, kendi aleyhine konuşulan sözlere karşı sabrederse, Allah ona cennette bir köşk hazırlar.(Ahmed, Müsned, 1/420)"
         ],
         proverbs: [
-            "Sabır, Gönlün Allaha tam Teslimiyetidir (SÜLEYMAN HİLMİ TUNAHAN.)",
-            "Eğer sabır ve kanaati öğrenmek istiyorsan Hace Muhammed Zahidin sohbetine ve hizmetine sarıl (HACE DERVİŞ MEHMED KS.)",
-            "Sabır, İmanın yarısıdır. Sabreden kişi, Allahın yardımına en yakın olandır (Ahmed Bİn Hambel)"
+            "Kötü sözler gelip geçicidir; asıl olan, insanın kendi nefsini hesaba çekmesi ve iç huzurunu korumasıdır.( İmam Gazâlî, İhyâ-u Ulûmi’d-Dîn)",
+            "Dünya insanların sınandığı yerdir; hakaret ve iftiralar sabırla karşılanmalı, çünkü sabır en yüce makamdır.(İbn Atâillâh el-İskenderî, Hikem)",
+            "İnsanın değeri, başkalarının ona yüklediği sıfatlarla değil, Allah’ın onu yaratışındaki yücelikle ölçülür.(Mevlânâ Celâleddîn Rûmî, Mesnevî)"
         ]
     },
     {
         name: "Güvensiz",
         hadiths: [
-            "Müminin başına gelen her yorgunluk, hastalık, tasa, üzüntü, eziyet ve keder — hatta ayağına batan bir diken bile — Allah tarafından onun günahlarına kefaret kılınır. (Buhârî, Merdâ 1; Müslim, Birr 49) ",
-           "Hiçbir amel, bir mümine cehennemden daha uzak bir derece kazandırmaz ki; onunla yorgunluk, sıkıntı, meşakkat veya gam çekmiş olmasın.(Ahmed b. Hanbel, Müsned 5/24)",
-            "İnsanlar sabahleyin kalkar ve nefislerini pazara sürerler: Kimi onu satar ve azat eder (kurtarır), kimi ise helâk eder.(Müslim, Müsâkat 107) "
+            "Kim Allah’a güvenip dayanırsa, O, ona yeter.(İbn Hibbân, Sahih, Hadis No: 524)",
+            "Allah’a tevekkül eden kimse, en sağlam kulpa yapışmıştır.( Tirmizî, Tefsir 3/2863)",
+            "Eğer siz Allah’a hakkıyla tevekkül etseydiniz, sabah aç çıkıp akşam tok dönen kuşları rızıklandırdığı gibi sizi de rızıklandırırdı.(Tirmizî, Zühd 33; İbn Mâce, Zühd 14)"
 
         ],
         proverbs: [
-            "Dünyada biraz yorul; Çünkü edebi istirahat, Ahirettedir (İMAM AHMED BİN HAMBEL)",
-            "Kul, Rabbinin rızası için yorulduğunda, Bu yorgunluk rahmete dönüşür (İmam Gazali)",
-             "Mümin, Akşam olduğunda yorgundur; Çünk ya bir hayır peşinde koşmuştur yada bir günaha karşı direnmiştir (Hasan-I Basri)"
+            "Gönlünü Allah’a bağla. O’na güvenen, asla yalnız kalmaz.(İmam Şâfiî (rh.a))",
+            "İnsanlardan beklentiyi kes, Allah’a yönel. O seni kimseye muhtaç bırakmaz.(İmam Ahmed bin Hanbel)",
+             "Kalbini insanlara açma; çünkü senin sıkıntını onlar taşıyamaz. Kalbini Allah’a aç, çünkü O Rahman’dır, Rahîm’dir.(İmam Rabbânî (k.s.))"
         ]
     },
 
