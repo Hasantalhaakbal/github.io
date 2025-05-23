@@ -115,7 +115,7 @@ const moods = [
             "Mümin, güçlü olanıdır. Allah, güçlü mümini zayıf müminden daha çok sever. Her birinde hayır vardır. Sana faydalı olanı iste, Allah’tan yardım dile, acizlik gösterme.(Müslim, Kader, 34; İbn Mâce, Mukaddime, 10)"
         ],
         proverbs: [
-            "Sen kendini küçük sansan da, sende büyük bir âlem gizlidir.(İmam Ali (r.a.), Nehcü'l-Belâğa, Hikmetler, No: 431)",
+            "Sen kendini küçük sansan da, sende büyük bir âlem gizlidir.(HZ Ali (r.a.), Nehcü'l-Belâğa, Hikmetler, No: 431)",
             "İnsanı yücelten ne makamdır, ne maldır. Asıl yücelik, tevazu ve güzel ahlaktadır.(İmam Gazâlî, İhyâ-u Ulûmi’d-Dîn, Cilt 3)",
             "Kendini küçük gören kişi, başkalarının büyüklüğünü abartır.(Abdülkadir Geylânî, Fütûhü’l-Gayb, 42. Mektup)"
         ]
