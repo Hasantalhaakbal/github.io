@@ -20,7 +20,7 @@ const moods = [
             "Bir kimse, haksız yere bir Müslümanın şerefini ayaklar altına alır ve ona iftira ederse; Allah da o kişiyi, cehennem köprülerinden geçerken rezil eder.(Ebû Dâvûd, Edeb 35; Ahmed b. Hanbel, Müsned, c. 2, s. 165)"
         ],
         proverbs: [
-            "Mazlumun duasından sakının, çünkü onunla Allah arasında perde yoktur(Buhârî, Mezâlim 9)",
+            "Mazlumun (haksızlığa uğramış) duasından sakının, çünkü onunla Allah arasında perde yoktur(Buhârî, Mezâlim 9)",
             "Kıyamet günü haklar ödeninceye kadar insanlar arasında hüküm verilir.(Sahîh-i Müslim, Birr 15; Tirmizî, Kıyâmet 2)",
             "Haksızlık edenin sevapları alınır, mazluma verilir.(Sahîh-i Buhârî, Mezâlim 10; Riyâzu’s-Sâlihîn)"
         ]
@@ -28,14 +28,14 @@ const moods = [
     {
         name: "Anlaşılmamış",
         hadiths: [
-            "Allah’tan başkasının rızasını gözeterek bir iş yapan kişi, Allah’ın gazabına uğrar. Allah için bir iş yapan kişiyse, insanlar kızsa da Allah onu korur.(İbn Hibbân, Sahîh, 276)",
-            "Ameller niyetlere göredir. Herkesin niyeti neyse eline geçecek olan odur.(Sahîh-i Buhârî, Bed’ü’l-Vahy 1; Sahîh-i Müslim, İmâre 155)",
+            "Şüphesiz Allah sizin dış görünüşlerinize ve mallarınıza değil, kalplerinize ve amellerinize bakar.(Müslim, Birr 33)⟶İnsanlar seni yanlış anlayabilir; ama Allah senin kalbindekini eksiksiz bilir.",
+                "İslam garip olarak başladı, yine garipliğe dönecektir. O hâlde gariplere(anlaşılmamışlara)müjde olsun!(Müslim, Îmân 232)",
             "Müminin niyeti amelinden hayırlıdır. Münâfığın ameli ise niyetinden şerlidir. Herkes niyetine göre amel eder.(Beyhakî, Şuabü’l-İmân, c. 5, s. 342; Taberânî, el-Mu’cemü’l-Evsat, 6/156)"
 
         ],
         proverbs: [
             "Allah sizin suretlerinize ve mallarınıza bakmaz; kalplerinize ve amellerinize bakar.(Müslim, Birr 33; İbn Mâce, Zühd 9)",
-            "Kim Allah’tan başkası için yaparsa, o kişi Allah katında makbul değildir.(Nesaî, Cihâd 24; Ahmed b. Hanbel, Müsned, 6/8)",
+            "Kim Allah’tan başkası için hayır yaparsa, o hayır Allah katında makbul değildir.(Nesaî, Cihâd 24; Ahmed b. Hanbel, Müsned, 6/8)",
             "Kim insanların takdirini beklerse, Allah’ın rahmetinden mahrum kalır.(Hz. Ali (r.a) — Nehcü’l-Belâğa, Hikmetler Bölümü)"
         
         ]
@@ -62,7 +62,7 @@ const moods = [
             "Hiçbir kimse, kendi elinin emeğinden daha hayırlı bir rızık yememiştir.(Sahîh-i Buhârî, Büyû‘ 15; Ahmed b. Hanbel, Müsned 6/166)"
         ],
         proverbs: [
-            "Kim sabrederse Allah ona sabır verir. Hiçbir kimseye sabırdan daha hayırlı ve daha geniş bir nimet verilmemiştir.(Buhârî, Zekât 10; Müslim, Zekât 76)",
+           "Kalbin yorulduğu zaman, onu dinlendirecek şeylerle meşgul ol. Çünkü kalp yorulursa kör olur.(İhyâ-u Ulûmiddîn)",
             "Hiçbir kimse, kendi elinin emeğinden daha hayırlı bir rızık yememiştir.(Buhârî, Büyû‘ 15)",
             "Müslüman bir kimseye isabet eden yorgunluk, hastalık, keder, üzüntü ve hatta bir diken bile günahlarına kefaret olur.(Buhârî, Marda 1; Müslim, Birr 49)"
         ]
@@ -70,15 +70,15 @@ const moods = [
     {
         name: "Yalnız Hisseden",
         hadiths: [
-            " Müminin başına gelen her türlü sıkıntı, üzüntü, hastalık, keder, yorgunluk ve hatta diken batması bile günahlarına kefaret olur.(Sahîh-i Buhari, Marda 1; Sahîh-i Müslim, Birr 49)",
-            "Kim Allah’a sabrederse, Allah ona sabrın güzelini verir.(Sahih-i Buhari, Müslim)",
-            "Kulların en sevimlisi, insanlara en faydalı olanıdır.(Taberani, el-Mu'cemu'l-Kebir, Hadis No: 4630; İbn Mâce, Zühd, 9)"
+           "Ben kuluma, beni nasıl zannederse öyleyim. Beni andığında onunlayım. O, beni içinden anarsa, ben de onu içimden anarım; o, beni bir topluluk içinde anarsa, ben de onu onlardan daha hayırlı bir topluluk içinde anarım.",
+                "Kim Allah’a bir karış yaklaşırsa, Allah ona bir arşın yaklaşır. Kim Allah’a bir arşın yaklaşırsa, Allah ona bir kulaç yaklaşır. Kim Allah’a yürüyerek gelirse, Allah ona koşarak gelir.(Buhârî, Tevhid 50; Müslim, Zikr 2)",
+                "Sen Allah’tan başkasına bel bağlama. Yardım isteyeceksen yalnız O’ndan iste... Bil ki bütün ümmet sana bir zarar vermek için toplansa, Allah’ın senin hakkında yazmadığı bir şeyi sana zarar olarak veremezler.(Tirmizî, Sıfatü’l-Kıyâme 59)"
 
         ],
         proverbs: [
             "Salih bir kimseyle olmak, yalnızlıktan daha iyidir; yalnızlık ise, kötü biriyle arkadaşlıktan daha iyidir.(İmam Gazâlî (rh.a.))",
             "Yalnızlık, adam olmayanın vereceği sevgiden, saygıdan yeğdir.(Mevlânâ Celâleddîn-i Rûmî (k.s.))",
-             "Gerçek sabır, musibetin ilk anında gösterilendir.(Sahih-i Buhârî, Cenâiz 32; Müslim, Cenâiz 14)"
+             "İnsanlardan uzak kalmam seni üzmesin. Zira senin Rabb’in, kalplerde gizlenenleri bilir. O sana yeter."
         ]
     },
     {
@@ -99,12 +99,12 @@ const moods = [
         hadiths: [
             "Allah sizin suretlerinize ve mallarınıza bakmaz; ancak kalplerinize ve amellerinize bakar.(Sahih-i Müslim, Birr 33; Müsned-i Ahmed, 2/285)",
             "Allah katında en sevimli kul, takvaca en üstün olandır.(Tirmizî, Tefsir 49/3270)",
-            "İnsanların en hayırlısı, insanlara en çok faydası dokunandır.(Taberânî, Mu’cemü’l-Evsat, 5787)"
+            "Her kul, Allah’ın yaratılışında ve takdirinde bir özellik taşır. Kimse, bir başkasıyla aynı ölçüde değerlendirilmez."
         ],
         proverbs: [
             "İnsan, başkasına benzeyerek değil, kendine ait olarak kıymetlidir.(İmam Şâfiî (rh.a))",
             "Kendini başkalarıyla değil, düne göre kıyasla. Çünkü Allah senin gayretine bakar.(İmam Rabbânî (k.s.))",
-            "Bir insanın değeri, sahip olduklarıyla değil, onlara karşı sabrıyla ölçülür.(İbn Teymiyye (rh.a))"
+            "Her insan bir dünyadır; kimseyi kendinle kıyaslama. Kendi derinliğini ve güzelliğini başkalarının aynasında arama."
         ]
     },
     {
@@ -125,7 +125,7 @@ const moods = [
         hadiths: [
             "Müslüman, Müslümanın kardeşidir; ona zulmetmez, onu (yalnız) bırakmaz, onu küçük görmez.(Müslim, Birr, 32)",
             "Kim bir müminin dünya sıkıntılarından birini giderirse, Allah da onun kıyamet günündeki sıkıntılarından birini giderir.(Buhârî, Mezâlim, 3; Müslim, Birr, 58)",
-            "Müminler, birbirlerine karşı iyi davranmakta, emniyette bulunmakta ve kardeşlikte birbirlerine karşı yumuşak davranmakta birleşmişlerdir.(Tirmizî, Birr ve Sıla, 12)"
+             "Mümin, müminin aynasıdır; kim onun kusurunu örterse Allah da onun kusurunu örter. Kim de müminin bir ihtiyacını giderirse, Allah da onun ihtiyaçlarını giderir.(Müslim, Birr 60)"
         ],
         proverbs: [
             "Gerçek dostluk, sıkıntılı zamanlarda belli olur; bazen yalnızlık, insanı Rabbine yaklaştıran bir nimettir.(İmam Gazâlî, İhyâ-u Ulûmi’d-Dîn, Cilt 4)",
