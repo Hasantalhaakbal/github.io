@@ -63,7 +63,6 @@ const moods = [
         ],
         proverbs: [
            "Kalbin yorulduğu zaman, onu dinlendirecek şeylerle meşgul ol. Çünkü kalp yorulursa kör olur.(İhyâ-u Ulûmiddîn)",
-            "Hiçbir kimse, kendi elinin emeğinden daha hayırlı bir rızık yememiştir.(Buhârî, Büyû‘ 15)",
             "Müslüman bir kimseye isabet eden yorgunluk, hastalık, keder, üzüntü ve hatta bir diken bile günahlarına kefaret olur.(Buhârî, Marda 1; Müslim, Birr 49)"
         ]
     },
