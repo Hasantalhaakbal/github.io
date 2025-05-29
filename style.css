@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: linear-gradient(135deg, #f6f8fa 0%, #95dae7 100%);
+    background: linear-gradient(135deg, #95dae7 0%, #95dae7 100%);
     min-height: 100vh;
     padding: 20px;
 }
